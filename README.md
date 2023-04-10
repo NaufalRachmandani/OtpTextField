@@ -1,5 +1,7 @@
 <h1 align="center">Jetpack Compose Otp Text Field</h1>
 
+![](otp_text_field.gif)
+
 ## How to integrate into your app?
 
 Step 1. Add the JitPack repository to your settings.gradle
