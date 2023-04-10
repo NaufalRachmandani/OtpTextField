@@ -1,7 +1,7 @@
 <h1 align="center">Jetpack Compose Otp Text Field</h1>
 
 ![](otp_text_field.gif)
-<img src="otp_text_field.gif" width="250" height="250"/>
+<img src="otp_text_field.gif" width="180" height="400"/>
 
 ## How to integrate into your app?
 
